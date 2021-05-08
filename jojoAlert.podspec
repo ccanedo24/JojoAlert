@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/ccanedo24/jojoAlert'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ccanedo' => 'ccanedo24@gmail.com' }
+  s.author           = { 'ccanedo24' => 'ccanedo24@gmail.com' }
   s.source           = { :git => 'https://github.com/ccanedo24/jojoAlert.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
