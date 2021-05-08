@@ -1,0 +1,22 @@
+{
+  "name": "jojoAlert",
+  "version": "0.1.0",
+  "summary": "A short description of jojoAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ccanedo/jojoAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ccanedo": "ccanedo@vivaorganica.com.mx"
+  },
+  "source": {
+    "git": "https://github.com/ccanedo/jojoAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "jojoAlert/Classes/**/*"
+}

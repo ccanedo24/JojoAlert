@@ -1,0 +1,16 @@
+PODS:
+  - jojoAlert (0.1.0)
+
+DEPENDENCIES:
+  - jojoAlert (from `../`)
+
+EXTERNAL SOURCES:
+  jojoAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  jojoAlert: bc88eba8f2b5d0e9d402a35760c8088a2c9fd467
+
+PODFILE CHECKSUM: e05aa34ccd392cb28eb9d24dc0bb552cdf8001bf
+
+COCOAPODS: 1.10.0

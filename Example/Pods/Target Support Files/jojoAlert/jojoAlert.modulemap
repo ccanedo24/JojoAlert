@@ -1,0 +1,6 @@
+framework module jojoAlert {
+  umbrella header "jojoAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
