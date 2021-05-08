@@ -71,7 +71,7 @@ public class JojoAlert{
         })
     }
     
-    public func showAlertLoading(on ViewController:UIViewController){
+    /*public func showAlertLoading(on ViewController:UIViewController){
         
         guard let targetView = ViewController.view else {
             return
@@ -91,7 +91,7 @@ public class JojoAlert{
         let indicator = UIActivityIndicatorView()
         indicator.frame = alertView.bounds
         indicator.color = UIColor(red: 74/255, green: 34/255, blue: 181/255, alpha: 1.0)
-        indicator.activityIndicatorViewStyle = .large
+        indicator.style = .large
         indicator.startAnimating()
         indicator.isHidden = false
         indicator.translatesAutoresizingMaskIntoConstraints = false
@@ -106,7 +106,7 @@ public class JojoAlert{
         UIView.animate(withDuration: 0.25) {
             self.backgroundView.alpha = Constants.backgroundAlphaTo
         }
-    }
+    }*/
     
     public func showAlertInfo(title:String, description:String, buttonTextLeft:String, buttonTextRight:String, type:String, on ViewController:UIViewController, leftButton:UIButton?, rightButton:UIButton?){
         
